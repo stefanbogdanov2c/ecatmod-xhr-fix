@@ -26,6 +26,6 @@ To execute the script, follow these steps:
    ```
 
 The script will:  
-- Read the XML file 'SampleEsi.xml'.  
-- Parse its contents using the 'ecatmod' library.  
+- Read the XML file `SampleEsi.xml`.  
+- Parse its contents using the `ecatmod` library.  
 - Log the unmarshalled data and apply it.
